@@ -1,0 +1,2134 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Organic Veggies",
+      "image": "https://shop.ethosagroenergy.in/wp-content/uploads/2023/09/Vegetable-Bulk-Order.jpg",
+      "bgColor": "#F5F1D8"
+    },
+    {
+      "id": "2",
+      "name": "Fresh Fruits",
+      "image": "https://www.wallpaperflare.com/static/722/681/295/food-lunch-bundle-fruits-wallpaper.jpg",
+      "bgColor": "#F8DCDC"
+    },
+    {
+      "id": "3",
+      "name": "Cold Drinks",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/6/315960216/OL/KS/EX/39752127/whatsapp-image-2023-06-12-at-18-37-36.jpeg",
+      "bgColor": "#E7F2D9"
+    },
+    {
+      "id": "4",
+      "name": "Instant Food",
+      "image": "https://www.addme.ng/cdn/shop/files/stressfree_177b4308-1836-4239-a128-71ab44ab7e46.png?v=1775457421&width=533",
+      "bgColor": "#DFF1ED"
+    },
+    {
+      "id": "5",
+      "name": "Dairy Products",
+      "image": "https://d2ki7eiqd260sq.cloudfront.net/7ed9faa58-ee3f-4b68-a7f2-3de95eeb7b62.png",
+      "bgColor": "#FCE8D2"
+    },
+    {
+      "id": "6",
+      "name": "Bakery & Breads",
+      "image": "https://t4.ftcdn.net/jpg/17/74/26/55/360_F_1774265513_Q9YjZB3EGZLgd7bFxOJIAvZytqktyPuh.jpg",
+      "bgColor": "#DFF1FA"
+    },
+    {
+      "id": "7",
+      "name": "Grains & Cereals",
+      "image": "https://static.vecteezy.com/system/resources/previews/055/753/025/non_2x/assortment-of-grains-and-cereals-in-paper-bags-photo.jpg",
+      "bgColor": "#F2E2F8"
+    },
+    {
+      "id": "8",
+      "name": "Snacks",
+      "image": "https://chandravilas.com/wp-content/uploads/2023/06/Best-of-Chandra-Vilas-Snack-Pack.png",
+      "bgColor": "#FFF0D9"
+    },
+    {
+      "id": "9",
+      "name": "Tea & Coffee",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/071/455/395/small/coffee-beans-in-burlap-sack-cup-of-coffee-and-cinnamon-sticks-aromatic-coffee-break-still-life-free-photo.jpg",
+      "bgColor": "#E8F5E9"
+    },
+    {
+      "id": "10",
+      "name": "Personal Care",
+      "image": "https://cheekandchin.com/cdn/shop/products/ultimate-skin-care-bundle-950972.jpg?v=1723921369",
+      "bgColor": "#FCE4EC"
+    },
+    {
+      "id": "11",
+      "name": "Baby Care",
+      "image": "https://greenpharmacy.co.in/cdn/shop/files/Ayurved-Mother_Baby.jpg?v=1728027970&width=1946",
+      "bgColor": "#E3F2FD"
+    },
+    {
+      "id": "12",
+      "name": "Frozen Food",
+      "image": "https://i.pinimg.com/564x/2d/8f/17/2d8f17dec3be377cd140b217ffe54b2e.jpg",
+      "bgColor": "#E0F7FA"
+    },
+    {
+      "id": "13",
+      "name": "Cleaning Essentials",
+      "image": "https://mintcleaningproducts.com/cdn/shop/files/DSC8184_722e1cb0-d91d-493e-ba0b-defda77450d4.jpg?v=1758758553&width=1500",
+      "bgColor": "#FFF8E1"
+    },
+    {
+      "id": "14",
+      "name": "Pet Care",
+      "image": "https://lixpetcare.ph/cdn/shop/files/IMG_3672_4b36acaf-6039-478d-b779-31c5307de742_1.jpg?v=1755758881&width=3840",
+      "bgColor": "#F3E5F5"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Tomato",
+      "category": "Organic Veggies",
+      "price": 30,
+      "unit": "1kg",
+      "image": "https://zamaorganics.com/cdn/shop/files/1000_x_1000_px_37.png?v=1752818343&width=1000"
+    },
+    {
+      "id": "2",
+      "name": "Potato",
+      "category": "Organic Veggies",
+      "price": 30,
+      "unit": "1kg",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/5/419840281/PS/RM/ME/184025675/a1-2-500x500.png"
+    },
+    {
+      "id": "3",
+      "name": "Carrot",
+      "category": "Organic Veggies",
+      "price": 50,
+      "unit": "1kg",
+      "image": "https://malafarms.com/wp-content/uploads/2024/01/Frame-24.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Broccoli",
+      "category": "Organic Veggies",
+      "price": 40,
+      "unit": "500g",
+      "image": "https://thumbs.dreamstime.com/b/healthy-green-organic-raw-broccoli-florets-ready-cooking-72079295.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Spinach",
+      "category": "Organic Veggies",
+      "price": 25,
+      "unit": "1kg",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/5/419831721/XJ/MX/IH/184025675/spanich-500x500.png"
+    },
+    {
+      "id": "6",
+      "name": "Apple",
+      "category": "Fresh Fruits",
+      "price": 120,
+      "unit": "1kg",
+      "image": "https://i.ndtvimg.com/i/2017-10/apple-benefits_620x350_51507721694.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Banana",
+      "category": "Fresh Fruits",
+      "price": 60,
+      "unit": "6pisces",
+      "image": "https://www.eatright.org/-/media/images/eatright-articles/bananas.jpg?h=520&w=780&rev=c5a21c5b5daf455baa28092d199f7ea9&hash=2D9B25DDD82621C11170E0994DBDB3BC"
+    },
+    {
+      "id": "8",
+      "name": "Orange",
+      "category": "Fresh Fruits",
+      "price": 90,
+      "unit": "1kg",
+      "image": "https://insanelygoodrecipes.com/wp-content/uploads/2023/01/Fresh-Organic-Tangerine-Oranges-with-Leaves.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Mango",
+      "category": "Fresh Fruits",
+      "price": 200,
+      "unit": "1kg",
+      "image": "https://natural-cure.org/wp-content/uploads/diet-and-nutrition-Mango-The-King-of-Fruit-has-Incredible-Health-Benefits.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Grapes",
+      "category": "Fresh Fruits",
+      "price": 60,
+      "unit": "500g",
+      "image": "https://media.post.rvohealth.io/wp-content/uploads/2022/01/grapes-732x549-thumbnail.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Coca Cola",
+      "category": "Cold Drinks",
+      "price": 40,
+      "unit": "750ml",
+      "image": "https://tiimg.tistatic.com/fp/1/007/866/-wonderful-taste-with-refreshment-soft-coke-coca-cola-cold-drink-400-ml--421.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Pepsi",
+      "category": "Cold Drinks",
+      "price": 40,
+      "unit": "750ml",
+      "image": "https://jagsfresh-bucket.s3.amazonaws.com/media/package/img_one/2020-10-17/Soft_Drink_-_Pepsi_Bottle_2.25l.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Sprite",
+      "category": "Cold Drinks",
+      "price": 35,
+      "unit": "750ml",
+      "image": "https://5.imimg.com/data5/UD/AN/IA/SELLER-28406699/1-25l-sprite-cold-drink.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Fanta",
+      "category": "Cold Drinks",
+      "price": 35,
+      "unit": "650ml",
+      "image": "https://5.imimg.com/data5/HK/DP/FW/SELLER-49520187/750-ml-fanta-cold-drink.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Mountain Dew",
+      "category": "Cold Drinks",
+      "price": 45,
+      "unit": "500ml",
+      "image": "https://tiimg.tistatic.com/fp/1/007/828/no-alcohol-carbonated-refreshing-fizzy-crisp-taste-mountain-dew-soft-drink--652.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Maggi Noodles",
+      "category": "Instant Food",
+      "price": 20,
+      "unit": "1pack",
+      "image": "https://www.quickpantry.in/cdn/shop/products/maggi-masala-instant-noodles-70-g-quick-pantry.jpg?v=1710537948"
+    },
+    {
+      "id": "17",
+      "name": "Pasta",
+      "category": "Instant Food",
+      "price": 60,
+      "unit": "1pack",
+      "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/pasta/q/9/9/-original-imahbh5t9gnzqeuf.jpeg?q=90"
+    },
+    {
+      "id": "18",
+      "name": "Cup Noodles",
+      "category": "Instant Food",
+      "price": 50,
+      "unit": "1pack",
+      "image": "https://frugivore-bucket.s3.amazonaws.com/media/package/img_one/2019-08-28/1877_Ql07KyE.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Soup Pack",
+      "category": "Instant Food",
+      "price": 35,
+      "unit": "1pack",
+      "image": "https://annachy-prod-assets.annachy.com/pims/products-v1/03092541G_1.png"
+    },
+    {
+      "id": "20",
+      "name": "Ready Poha",
+      "category": "Instant Food",
+      "price": 45,
+      "unit": "1pack",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72PMnJvTSNi4bgu377gTVEv0ExZGrKuxXdw&s"
+    },
+    {
+      "id": "21",
+      "name": "Pineapple",
+      "category": "Fresh Fruits",
+      "price": 130,
+      "unit": "1pisce",
+      "image": "https://houseofnasheats.com/wp-content/uploads/2022/11/How-to-Cut-A-Pineapple-19.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Watermelon",
+      "category": "Fresh Fruits",
+      "price": 90,
+      "unit": "1pisce",
+      "image": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/health_benefits_of_watermelon_slideshow/650x350_health_benefits_of_watermelon_slideshow.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Papaya",
+      "category": "Fresh Fruits",
+      "price": 70,
+      "unit": "1pisce",
+      "image": "https://www.dreamfoodscaribe.com/wp-content/uploads/2024/07/papaya-fruit.webp"
+    },
+    {
+      "id": "24",
+      "name": "Kiwi",
+      "category": "Fresh Fruits",
+      "price": 180,
+      "unit": "500gm",
+      "image": "https://zamaorganics.com/cdn/shop/files/Untitleddesign_9.png?v=1752744167&width=1080"
+    },
+    {
+      "id": "25",
+      "name": "Strawberry",
+      "category": "Fresh Fruits",
+      "price": 160,
+      "unit": "500gm",
+      "image": "https://images.indianexpress.com/2021/01/strawberry_1200_getty.jpg?w=1200"
+    },
+    {
+      "id": "26",
+      "name": "Pomegranate",
+      "category": "Fresh Fruits",
+      "price": 140,
+      "unit": "1pisce",
+      "image": "https://images.jdmagicbox.com/quickquotes/images_main/-4m7rco53.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Guava",
+      "category": "Fresh Fruits",
+      "price": 80,
+      "unit": "1kg",
+      "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/benefits-of-guavas-732x549-thumbnail-732x549.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Cherry",
+      "category": "Fresh Fruits",
+      "price": 220,
+      "unit": "750gm",
+      "image": "https://cdn.grofers.com/da/cms-assets/cms/product/8c221f83-d25a-4488-b1d0-ab7c3a783d05.jpg"
+    },
+    {
+      "id": "29",
+      "name": "Blueberry",
+      "category": "Fresh Fruits",
+      "price": 260,
+      "unit": "1kg",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40083980_9-fresho-blueberry.jpg"
+    },
+    {
+      "id": "30",
+      "name": "Pear",
+      "category": "Fresh Fruits",
+      "price": 110,
+      "unit": "500gm",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40272805_4-fresho-pear-beauty.jpg"
+    },
+    {
+      "id": "31",
+      "name": "Litchi",
+      "category": "Fresh Fruits",
+      "price": 150,
+      "unit": "500gm",
+      "image": "https://www.bbassets.com/media/uploads/p/l/20001175_18-fresho-litchi.jpg"
+    },
+    {
+      "id": "32",
+      "name": "Dragon Fruit",
+      "category": "Fresh Fruits",
+      "price": 250,
+      "unit": "1kg",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2025/7/524662856/YH/KU/XZ/241324329/fresh-red-dragon-fruit-500x500.jpg"
+    },
+    {
+      "id": "33",
+      "name": "Muskmelon",
+      "category": "Fresh Fruits",
+      "price": 85,
+      "unit": "1pisce",
+      "image": "https://www.greendna.in/cdn/shop/products/Muskmelon-cover-1_1000x.jpg?v=1746694301"
+    },
+    {
+      "id": "34",
+      "name": "Coconut",
+      "category": "Fresh Fruits",
+      "price": 50,
+      "unit": "1pisce",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7EthCL9xI_IZPKyOA6L7B2x3Y7MihhW3fA&s"
+    },
+    {
+      "id": "35",
+      "name": "Avocado",
+      "category": "Fresh Fruits",
+      "price": 300,
+      "unit": "500g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrlt_JVCpaRETC2o5XX3T6IEZmi8zzh8r9w&s"
+    },
+    {
+      "id": "36",
+      "name": "Plum",
+      "category": "Fresh Fruits",
+      "price": 170,
+      "unit": "500g",
+      "image": "https://www.bbassets.com/media/uploads/p/xl/40218329_4-fresho-plum-indian.jpg"
+    },
+    {
+      "id": "37",
+      "name": "Jamun",
+      "category": "Fresh Fruits",
+      "price": 120,
+      "unit": "500g",
+      "image": "https://www.shutterstock.com/image-photo/wooden-bowl-filled-indian-blackberry-260nw-2465520705.jpg"
+    },
+    {
+      "id": "38",
+      "name": "Sweet Lime",
+      "category": "Fresh Fruits",
+      "price": 75,
+      "unit": "5pisce",
+      "image": "https://5.imimg.com/data5/GE/RR/GLADMIN-50838747/organic-sweet-lime-500x500.jpg"
+    },
+    {
+      "id": "39",
+      "name": "Custard Apple",
+      "category": "Fresh Fruits",
+      "price": 140,
+      "unit": "1kg",
+      "image": "https://www.bbassets.com/media/uploads/p/l/10000349_23-fresho-custard-apple.jpg"
+    },
+    {
+      "id": "40",
+      "name": "Dates",
+      "category": "Fresh Fruits",
+      "price": 200,
+      "unit": "500g",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2024/02/Bowl-of-dates-6aae23f.jpg"
+    },
+    {
+      "id": "41",
+      "name": "Dog Food",
+      "category": "Pet Care",
+      "price": 450,
+      "unit": "1kg",
+      "image": "https://m.media-amazon.com/images/I/616UCDZ8frL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "42",
+      "name": "Cat Food",
+      "category": "Pet Care",
+      "price": 400,
+      "unit": "1kg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglMwCXTqGG9PGZ727Eyxn-IFyFE-wtA-vbg&s"
+    },
+    {
+      "id": "43",
+      "name": "Pet Shampoo",
+      "category": "Pet Care",
+      "price": 250,
+      "unit": "1unit",
+      "image": "https://m.media-amazon.com/images/I/61ybyRVGOAL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "id": "44",
+      "name": "Dog Collar",
+      "category": "Pet Care",
+      "price": 180,
+      "unit": "1unit",
+      "image": "https://images.meesho.com/images/products/597004597/ba1hq_512.webp?width=512"
+    },
+    {
+      "id": "45",
+      "name": "Cat Toy",
+      "category": "Pet Care",
+      "price": 120,
+      "unit": "1unit",
+      "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/pet-toy/v/y/g/1-interactive-cat-and-dog-ball-decorvaiz-original-imahdp3nxt55znwr.jpeg?q=90"
+    },
+    {
+      "id": "46",
+      "name": "Bird Cage",
+      "category": "Pet Care",
+      "price": 850,
+      "unit": "1unit",
+      "image": "https://m.media-amazon.com/images/I/71ptkVTFOrL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "47",
+      "name": "Fish Food",
+      "category": "Pet Care",
+      "price": 90,
+      "unit": "150g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJSsufwKDH6KLpDxmBHCmoRd1i0qfQZWxAvg&s"
+    },
+    {
+      "id": "48",
+      "name": "Pet Bed",
+      "category": "Pet Care",
+      "price": 700,
+      "unit": "1unit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGpVbyiHbiOk3sieUEWH0o7j3f5gqcXUCA3g&s"
+    },
+    {
+      "id": "49",
+      "name": "Dog Leash",
+      "category": "Pet Care",
+      "price": 220,
+      "unit": "1unit",
+      "image": "https://m.media-amazon.com/images/I/61C9Dt6Bl8L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "50",
+      "name": "Pet Bowl",
+      "category": "Pet Care",
+      "price": 140,
+      "unit": "1unit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsdEwas2JTMKGt2E2rQonkoK1SHQTYnSPpw&s"
+    },
+    {
+      "id": "51",
+      "name": "Rabbit Food",
+      "category": "Pet Care",
+      "price": 160,
+      "unit": "500g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKz5tpSyAllUlDHomybYJeErcfqk5z_NeU5w&s"
+    },
+    {
+      "id": "52",
+      "name": "Pet Comb",
+      "category": "Pet Care",
+      "price": 110,
+      "unit": "1unit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROno9Uutei8vi5Zh0OqRpLktzkGcSOWUvA7A&s"
+    },
+    {
+      "id": "53",
+      "name": "Pet Toothpaste",
+      "category": "Pet Care",
+      "price": 130,
+      "unit": "1unit",
+      "image": "https://m.media-amazon.com/images/I/610opKMqGuL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "54",
+      "name": "Aquarium",
+      "category": "Pet Care",
+      "price": 1200,
+      "unit": "1unit",
+      "image": "https://marltons.co.za/cdn/shop/articles/tank.jpg?v=1673522172"
+    },
+    {
+      "id": "55",
+      "name": "Hamster Wheel",
+      "category": "Pet Care",
+      "price": 260,
+      "unit": "1unit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSrCjWKlbEXxIiX6kYZZ5G8H6gsBwf6__bBA&s"
+    },
+    {
+      "id": "56",
+      "name": "Pet Blanket",
+      "category": "Pet Care",
+      "price": 300,
+      "unit": "1unit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQasFyDyQAxYjmxmNouve-EoMXEz6ugWR5jrA&s"
+    },
+    {
+      "id": "57",
+      "name": "Dog Biscuits",
+      "category": "Pet Care",
+      "price": 180,
+      "unit": "500g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64go6Ujwy3agkvaLJz5edWRpsONnYL74HBA&s"
+    },
+    {
+      "id": "58",
+      "name": "Cat Litter",
+      "category": "Pet Care",
+      "price": 350,
+      "unit": "1kg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvi7SygqUyKGaRGJac90fp8pdlSGbsfvtfQ&s"
+    },
+    {
+      "id": "59",
+      "name": "Pet Carrier",
+      "category": "Pet Care",
+      "price": 950,
+      "unit": "1unit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalSp8rNvKmZZWcR4BcxZcGLN2N0zs3F3j6w&s"
+    },
+    {
+      "id": "60",
+      "name": "Bird Food",
+      "category": "Pet Care",
+      "price": 100,
+      "unit": "500g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2l3dsiW_Onz1hcwoNDTjaBqnST0IB1Jm3dQ&s"
+    },
+    {
+      "id": "61",
+      "name": "Floor Cleaner",
+      "category": "Cleaning Essentials",
+      "price": 180,
+      "unit": "750ml",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQUZ2WPjVMedGe-82zP2Q4NJ5mtwBipl8sRQZJ3gdBB7Hce9ky2LFN342lgPieb0DgvfESZgpMJO0wGzSvQ1guzzZqI7VHJ2WDg8xux6Eny1Q3Xnq8ADI-iQja-Xet02ybJSjxE7Q&usqp=CAc"
+    },
+    {
+      "id": "62",
+      "name": "Dish Wash Liquid",
+      "category": "Cleaning Essentials",
+      "price": 120,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKbBo6u_x_1kaAsh4aEbLaL-viHwmSNrNKg&s"
+    },
+    {
+      "id": "63",
+      "name": "Glass Cleaner",
+      "category": "Cleaning Essentials",
+      "price": 150,
+      "unit": "500ml",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStTX67c2fWd41cPdmDTZDhUD01kK7FBGnrxrylIT7aW96p0McF0-ygmEY4UPvBF7LrUfXEalXzvH5EA0q34_cFvR1ZOfJ3bXp72ghPOzK2n_CfZvsNLmEE7vt2o6lRweFLNNL94TQ&usqp=CAc"
+    },
+    {
+      "id": "64",
+      "name": "Toilet Cleaner",
+      "category": "Cleaning Essentials",
+      "price": 170,
+      "unit": "1lr",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmbvqgP9Z8-_CdTWwO7mAGwtD9bRn7dfrZsJj9lj6zEu9kRhuaYf1xK4gmdGDlQVenZblkBSkVFDh6bMXnCA1lton5qHXOe7PH6O2ZUiudkA1-ksAwZ6FDmOCSOi-d1eIo1g0h4QZA&usqp=CAc"
+    },
+    {
+      "id": "65",
+      "name": "Laundry Detergent",
+      "category": "Cleaning Essentials",
+      "price": 320,
+      "unit": "1kg",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSM06ldQQYJz3X1sIFZ1kGXWLUIAqGBxV8__72ThCN_epkilGmo2VaUgLlEWV87M0XXnm5j49s6G9jnfRKvED9M97P_X2H1CEngv4FV4RbxkGp3KdxMSprDjjx18h7le7RT2yIjJQ&usqp=CAc"
+    },
+    {
+      "id": "66",
+      "name": "Soap Bar",
+      "category": "Cleaning Essentials",
+      "price": 40,
+      "unit": "1unit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMoAYIi_O31WWw8grcK1CTUHBWU0HAU3Dyw&s"
+    },
+    {
+      "id": "67",
+      "name": "Hand Wash",
+      "category": "Cleaning Essentials",
+      "price": 110,
+      "unit": "750ml",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Oz7U9Tye51AlRCDez5exAX_i7DZC-nGeKg&s"
+    },
+    {
+      "id": "68",
+      "name": "Cleaning Sponge",
+      "category": "Cleaning Essentials",
+      "price": 30,
+      "unit": "3uint",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/5/421077004/QY/RF/DX/222640751/sponge-scrub-pad-500x500.png"
+    },
+    {
+      "id": "69",
+      "name": "Garbage Bags",
+      "category": "Cleaning Essentials",
+      "price": 90,
+      "unit": "1unit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLBQdGKKROjlT65qzgYPFcDOA7UH0PMDlyw&s"
+    },
+    {
+      "id": "70",
+      "name": "Air Freshener",
+      "category": "Cleaning Essentials",
+      "price": 220,
+      "unit": "1unit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0rJ0OeCCTF8EXZOhTlZKpQewoEuKBmvoaYg&s"
+    },
+    {
+      "id": "71",
+      "name": "Disinfectant Spray",
+      "category": "Cleaning Essentials",
+      "price": 260,
+      "unit": "750ml",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlJTkaj99SRwHE1NjziAjI3EcvmGPyF40pw&s"
+    },
+    {
+      "id": "72",
+      "name": "Bleach Liquid",
+      "category": "Cleaning Essentials",
+      "price": 140,
+      "unit": "2packs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_gMRxznMbitAwRmceyPko7eVEkyRh9J28g&s"
+    },
+    {
+      "id": "73",
+      "name": "Toilet Brush",
+      "category": "Cleaning Essentials",
+      "price": 100,
+      "unit": "2unit",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/4/408349826/LU/VN/QI/41615788/toilet-brush-500x500.jpeg"
+    },
+    {
+      "id": "74",
+      "name": "Scrub Pad",
+      "category": "Cleaning Essentials",
+      "price": 50,
+      "unit": "5unit",
+      "image": "https://m.media-amazon.com/images/I/61CL5LRUcSL._AC_UY1100_.jpg"
+    },
+    {
+      "id": "75",
+      "name": "Mop Set",
+      "category": "Cleaning Essentials",
+      "price": 650,
+      "unit": "1unit",
+      "image": "https://m.media-amazon.com/images/I/51ZZSDJ+UmL.jpg"
+    },
+    {
+      "id": "76",
+      "name": "Bucket",
+      "category": "Cleaning Essentials",
+      "price": 280,
+      "unit": "1unit",
+      "image": "https://m.media-amazon.com/images/I/61YZDtXKhlL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "77",
+      "name": "Dustbin",
+      "category": "Cleaning Essentials",
+      "price": 350,
+      "unit": "1unit",
+      "image": "https://www.milton.in/cdn/shop/files/SZ_CLEAN_UP_12_4.jpg?v=1758526763"
+    },
+    {
+      "id": "78",
+      "name": "Phenyl",
+      "category": "Cleaning Essentials",
+      "price": 130,
+      "unit": "2lr",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7rEslwwqTXtbmv5_ccldi6MksVV2MKx2NVQ&s"
+    },
+    {
+      "id": "79",
+      "name": "Tissue Roll",
+      "category": "Cleaning Essentials",
+      "price": 95,
+      "unit": "1unit",
+      "image": "https://m.media-amazon.com/images/I/61Z7-+xkhBL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "80",
+      "name": "Wet Wipes",
+      "category": "Cleaning Essentials",
+      "price": 75,
+      "unit": "1unit",
+      "image": "https://perisafe.in/cdn/shop/files/89.png?v=1703585817&width=1946"
+    },
+    {
+      "id": "81",
+      "name": "Frozen Pizza",
+      "price": 220,
+      "category": "Frozen Food",
+      "unit": "1pisce",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSiwk2fOQZZK-tjsziEJp7qaWZrKa8ZI9S3g&s"
+    },
+    {
+      "id": "82",
+      "name": "Frozen Burger Patty",
+      "price": 180,
+      "category": "Frozen Food",
+      "unit": "5pisce",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY_adrN5dGjAIJ7kXS9M3qfsIRuBDgdIX8A&s"
+    },
+    {
+      "id": "83",
+      "name": "Frozen French Fries",
+      "price": 140,
+      "category": "Frozen Food",
+      "unit": "500g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkjjWCeZG03Sp2YthBwREecXwPEgFTP2asw&s"
+    },
+    {
+      "id": "84",
+      "name": "Frozen Nuggets",
+      "price": 250,
+      "unit": "500g",
+      "category": "Frozen Food",
+      "image": "https://m.media-amazon.com/images/I/71-n8ynRAvL.jpg"
+    },
+    {
+      "id": "85",
+      "name": "Frozen Corn",
+      "price": 90,
+      "unit": "450g",
+      "category": "Frozen Food",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40097939_3-total-frozen-sweet-corn.jpg"
+    },
+    {
+      "id": "86",
+      "name": "Frozen Peas",
+      "price": 80,
+      "unit": "500g",
+      "category": "Frozen Food",
+      "image": "https://www.quickpantry.in/cdn/shop/products/frozen-green-peas-1-kg-quick-pantry.jpg?v=1710538982"
+    },
+    {
+      "id": "87",
+      "name": "Frozen Momos",
+      "price": 160,
+      "unit": "1pack",
+      "category": "Frozen Food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSroscArCTiDQX5cAf8ut7wrb18pyaOGcAS9A&s"
+    },
+    {
+      "id": "88",
+      "name": "Frozen Ice Cream",
+      "price": 120,
+      "unit": "250g",
+      "category": "Frozen Food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqeBINBGRwKOxZok3lrjlLE5HWImuDUH6Hg&s"
+    },
+    {
+      "id": "89",
+      "name": "Frozen Paneer",
+      "price": 200,
+      "unit": "350g",
+      "category": "Frozen Food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3lXuJOwbxq-z_fzRG4Dwyyk_2snchJZmCA&s"
+    },
+    {
+      "id": "90",
+      "name": "Frozen Fish Fingers",
+      "price": 320,
+      "unit": "500g",
+      "category": "Frozen Food",
+      "image": "https://cdn.grofers.com/da/cms-assets/cms/product/68722357-eb16-41e7-910e-ff704698e738.jpg"
+    },
+    {
+      "id": "91",
+      "name": "Frozen Chicken",
+      "price": 350,
+      "unit": "500g",
+      "category": "Frozen Food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUe6zkgl3C8wmMPckJnakVpr4-rf1Eql3BQ&s"
+    },
+    {
+      "id": "92",
+      "name": "Frozen Paratha",
+      "price": 130,
+      "unit": "1pack",
+      "category": "Frozen Food",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40282381_3-aashirvaad-aloo-paratha-ready-to-cook-frozen-no-added-preservatives.jpg"
+    },
+    {
+      "id": "93",
+      "name": "Frozen Spring Roll",
+      "price": 170,
+      "unit": "10pisce",
+      "category": "Frozen Food",
+      "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/CIW/2026/3/19/afb4d073-a0e9-4399-971e-193f0a9377b8_18906_1.png"
+    },
+    {
+      "id": "94",
+      "name": "Frozen Veg Mix",
+      "price": 110,
+      "unit": "10pisce",
+      "category": "Frozen Food",
+      "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/ciw/2025/12/18/60babe3b-b8fc-46f6-8116-6d0dc521611a_1VJN27TW4M_MN_18122025.png"
+    },
+    {
+      "id": "95",
+      "name": "Frozen Pasta",
+      "price": 190,
+      "unit": "1pack",
+      "category": "Frozen Food",
+      "image": "https://images.albertsons-media.com/is/image/ABS/960051747-C1N1?$ng-ecom-pdp-desktop$&defaultImage=Not_Available"
+    },
+    {
+      "id": "96",
+      "name": "Frozen Samosa",
+      "price": 150,
+      "unit": "1pack",
+      "category": "Frozen Food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_o7ci_f-tRmmui2sr52ZuetpKk5sWVRX_g&s"
+    },
+    {
+      "id": "97",
+      "name": "Frozen Idli",
+      "price": 100,
+      "unit": "1pack",
+      "category": "Frozen Food",
+      "image": "https://tiimg.tistatic.com/fp/1/003/084/frozen-idli-308.jpg"
+    },
+    {
+      "id": "98",
+      "name": "Frozen Dosa",
+      "price": 120,
+      "unit": "1pack",
+      "category": "Frozen Food",
+      "image": "https://www.qualityfoodsonline.com/cdn/shop/products/FROZ-126.jpg?v=1689681061"
+    },
+    {
+      "id": "99",
+      "name": "Frozen Waffles",
+      "price": 210,
+      "unit": "10pisce",
+      "category": "Frozen Food",
+      "image": "https://m.media-amazon.com/images/I/81ABo5oxoGL._AC_SL3840_.jpg"
+    },
+    {
+      "id": "100",
+      "name": "Frozen Garlic Bread",
+      "price": 160,
+      "unit": "5pisce",
+      "category": "Frozen Food",
+      "image": "https://i.pinimg.com/736x/2b/bd/ec/2bbdecfdee141774086499f4baa23409.jpg"
+    },
+    {
+      "id": "101",
+      "name": "Baby Diapers",
+      "price": 450,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://tiimg.tistatic.com/fp/1/007/620/lightweight-comfortable-dry-pampers-diapers-pants-all-round-baby-care-protection-497.jpg"
+    },
+    {
+      "id": "102",
+      "name": "Baby Wipes",
+      "price": 120,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvONBU5NIfSnjYS7c3hS8q6IYa1mew6UViw&s"
+    },
+    {
+      "id": "103",
+      "name": "Baby Shampoo",
+      "price": 180,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6njvTj15DU-iCVyKeY_bQ1TCkBAVwxXycg&s"
+    },
+    {
+      "id": "104",
+      "name": "Baby Soap",
+      "price": 90,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW7RB9uk5aAYC168RQ1nAXdcOTKC9qvAwYsw&s"
+    },
+    {
+      "id": "105",
+      "name": "Baby Powder",
+      "price": 140,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://4.imimg.com/data4/JD/RQ/MY-14788356/92-500x500.jpg"
+    },
+    {
+      "id": "106",
+      "name": "Baby Oil",
+      "price": 160,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://d29azk3rh443yy.cloudfront.net/static/Products/himalaya-baby-massage-oil-50ml-surginatal.com-002.webp"
+    },
+    {
+      "id": "107",
+      "name": "Baby Lotion",
+      "price": 220,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KCbIFUDTGcVxfMjf6BCp0jS1XpshTIWxlg&s"
+    },
+    {
+      "id": "108",
+      "name": "Baby Feeding Bottle",
+      "price": 250,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNCxc-UMtrCJr3NeQ-YWvVOWF0HwXAtTBYRA&s"
+    },
+    {
+      "id": "109",
+      "name": "Baby Bib",
+      "price": 80,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://m.media-amazon.com/images/I/61Nq3jjknVL._AC_UY1100_.jpg"
+    },
+    {
+      "id": "110",
+      "name": "Baby Blanket",
+      "price": 320,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3PSKoYz3cqbxUZPnzlbwyI0W1HG5gTFZxw&s"
+    },
+    {
+      "id": "111",
+      "name": "Baby Food",
+      "price": 190,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://m.media-amazon.com/images/I/51EG4qqAyML._AC_SR290,290_.jpg"
+    },
+    {
+      "id": "112",
+      "name": "Baby Toothbrush",
+      "price": 60,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://m.media-amazon.com/images/I/715G+MHG4NL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "113",
+      "name": "Baby Toothpaste",
+      "price": 75,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://m.media-amazon.com/images/I/71IvV9ABd8L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "114",
+      "name": "Baby Comb Set",
+      "price": 110,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://m.media-amazon.com/images/I/71L0yGtcPsL._AC_SL640_.jpg"
+    },
+    {
+      "id": "115",
+      "name": "Baby Clothes",
+      "price": 550,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/583x720/22159178a.webp"
+    },
+    {
+      "id": "116",
+      "name": "Baby Socks",
+      "price": 70,
+      "unit": "1pair",
+      "category": "Baby Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTbT36czcwD1woTJM7kc2_kUm05DfMwwEztg&s"
+    },
+    {
+      "id": "117",
+      "name": "Baby Cap",
+      "price": 90,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPRN0OdADsy-LlDCkNhzbiNeNaN16w5uPsg&s"
+    },
+    {
+      "id": "118",
+      "name": "Baby Walker",
+      "price": 2200,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://cdn.shopify.com/s/files/1/0717/4622/4450/files/02_d0208b8b-dd6f-47d4-9f92-23e0ca473fab.jpg?v=1776073668"
+    },
+    {
+      "id": "119",
+      "name": "Baby Stroller",
+      "price": 4500,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/H2Vu1FuFP-product.jpeg"
+    },
+    {
+      "id": "120",
+      "name": "Baby Toy Set",
+      "price": 350,
+      "unit": "1unit",
+      "category": "Baby Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy79mnRnkmKUn6GjVYY37aQ-436RqOjy2ww&s"
+    },
+    {
+      "id": "121",
+      "name": "Shampoo",
+      "price": 180,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://assets.myntassets.com/w_200,q_50,,dpr_3,fl_progressive,f_webp/assets/images/33615356/2025/5/20/15d04f7b-6fc2-4b70-83d9-e183af8aa0481747740928046-Pilgrim-Korean-Rice-Water--Collagen-Advanced-Damage-Repair-S-1.jpg"
+    },
+    {
+      "id": "122",
+      "name": "Hair Conditioner",
+      "price": 220,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-NG7SBDZYVcHm4J4_rcyM9KrxzZ_X-pElIQ&s"
+    },
+    {
+      "id": "123",
+      "name": "Toothpaste",
+      "price": 90,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ--nrddHiT3SiGU-S4oLrEhkphgOxc6PGFA&s"
+    },
+    {
+      "id": "124",
+      "name": "Toothbrush",
+      "price": 50,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUy79CwkXmTlJjHCPuRxt7C8ZX9R0PAS_Jmg&s"
+    },
+    {
+      "id": "125",
+      "name": "Face Wash",
+      "price": 150,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQD6_PEE7rWzjQvtv4BMEOyoVHOJT2wduhd9Xx7aaVeIxV2-V1hi2wwnBpJH7tSXWOzjdD6-xRPznfnUTsq0cWPc_FERqKKxr7rWEuALrVik3NuF6lGrrBGvtFMRB7nktZIlFt91Q&usqp=CAc"
+    },
+    {
+      "id": "126",
+      "name": "Moisturizer Cream",
+      "price": 200,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_bQ3rNWES1sHb2eN17GCpPGblTKxcswPf5w&s"
+    },
+    {
+      "id": "127",
+      "name": "Sunscreen Lotion",
+      "price": 300,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTBRaTuvUVbpMBmNXnd4fAhFNkD2Q4KKPdY1lIZDi18uBkEgsnEebvvNDB2hO2Z8y12RIh9R4QLY_26dCguXl_4bKrvKKV4__Ionn4DcUfCqszAIQSxPGkAeq_0DsMWTFEA&usqp=CAc"
+    },
+    {
+      "id": "128",
+      "name": "Deodorant",
+      "price": 180,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://assets.myntassets.com/w_200,q_50,,dpr_3,fl_progressive,f_webp/assets/images/17780510/2023/10/20/f80e4767-b054-4ae4-9b61-288dc68391571697769727831ANDWomenLoveMuseDeodorant-200ml1.jpg"
+    },
+    {
+      "id": "129",
+      "name": "Body Soap",
+      "price": 60,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_9b32991b-b9e1-46e9-a501-6dc49a506ffc.jpeg"
+    },
+    {
+      "id": "130",
+      "name": "Shaving Razor",
+      "price": 120,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://m.media-amazon.com/images/I/91+dk1GV9cL.jpg"
+    },
+    {
+      "id": "131",
+      "name": "Shaving Cream",
+      "price": 140,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QFg_ksrS9VmJiWQ5p2h9jqO3S_6QUuKqvg&s"
+    },
+    {
+      "id": "132",
+      "name": "Beard Oil",
+      "price": 250,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJW_hbWZkeWDsT2njJ2c38A-BVUVJVIATDxA&s"
+    },
+    {
+      "id": "133",
+      "name": "Face Cream",
+      "price": 210,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://dwibhashi.co.in/cdn/shop/files/Facecream_1_copy_4.jpg?v=1733465855"
+    },
+    {
+      "id": "134",
+      "name": "Hand Cream",
+      "price": 160,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://images-cdn.ubuy.com.sa/635d16b93ff37028db45b353-vaseline-intensive-care-hand-cream.jpg"
+    },
+    {
+      "id": "135",
+      "name": "Perfume",
+      "price": 350,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_nANoRfYjAfRpNbSw0hlcY5zHa3yT9plAg&s"
+    },
+    {
+      "id": "136",
+      "name": "Body Lotion",
+      "price": 220,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwWXjEfTV8U3KJJVNeenVeRNtxAIjUdIl1zw&s"
+    },
+    {
+      "id": "137",
+      "name": "Hair Gel",
+      "price": 130,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLaWRXaAa66YvDlF8MbdN2R4q6haQ-2RfJ_Q&s"
+    },
+    {
+      "id": "138",
+      "name": "Hair Oil",
+      "price": 170,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhYHcc1cwMu0mJ9q8LpXU5q5V_dNsvYzs8pQ&s"
+    },
+    {
+      "id": "139",
+      "name": "Lip Balm",
+      "price": 80,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://himalayawellness.in/cdn/shop/products/Lip-Balm-3.jpg?v=1686636883"
+    },
+    {
+      "id": "140",
+      "name": "Talcum Powder",
+      "price": 110,
+      "unit": "1unit",
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXSb0ksBq_VbPeMoU7gCJoY4PSZ7btfo3hXg&s"
+    },
+    {
+      "id": "141",
+      "name": "Tea Powder",
+      "price": 120,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://www.tatanutrikorner.com/cdn/shop/files/61pCi0XAemL._SL1000-removebg-preview.png?v=1748858300&width=533g"
+    },
+    {
+      "id": "142",
+      "name": "Green Tea",
+      "price": 180,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6CRub2C2ScuRM3WikU_emKU__V4t12i4a3TkLVZbA6DMegR34-mIq0xK01n0jtLHQFIh1nVN_QjtL5yKngXCe795O_Zuf2CWlpP1_kkML"
+    },
+    {
+      "id": "143",
+      "name": "Black Tea",
+      "price": 150,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTAhnzSGAHKzkJZeAMZ5LaopHM5XmC8eyvZjqhgM5d_4p74YiBu75OEVtInwXAWEStyC96BtjZslxbgII6Azn3V3ZcD5-G2Dg"
+    },
+    {
+      "id": "144",
+      "name": "Masala Tea",
+      "price": 160,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://loveofindia.com/cdn/shop/files/Tea_B.png?v=1773216519"
+    },
+    {
+      "id": "145",
+      "name": "Herbal Tea",
+      "price": 200,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8_jcDTdT59UIZybcHkvFvQ2NQqOukowr0A&s"
+    },
+    {
+      "id": "146",
+      "name": "Lemon Tea",
+      "price": 170,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZqRHRnVdSkJL2ZTutPNH9-jqUKKQIU7DGyA&s"
+    },
+    {
+      "id": "147",
+      "name": "Ginger Tea",
+      "price": 150,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3elzQ7HF5Nr2qKTO7wxGiW2YQK1JW65s9hA&s"
+    },
+    {
+      "id": "148",
+      "name": "Cardamom Tea",
+      "price": 160,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0oskbUgXI1c2MdoW8RTJXsH7VfWLgwxuusQ&s"
+    },
+    {
+      "id": "149",
+      "name": "Instant Coffee",
+      "price": 220,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://buytea.com/cdn/shop/files/InstantCoffee_140g_08_33e6ef33-194a-483e-88be-948a19cfe48e_1500x.jpg?v=1774248481"
+    },
+    {
+      "id": "150",
+      "name": "Filter Coffee",
+      "price": 250,
+      "unit": "500g",
+      "category": "Tea & Coffee",
+      "image": "https://m.media-amazon.com/images/I/81CQjhqsfaL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "id": "151",
+      "name": "Cold Coffee Mix",
+      "price": 200,
+      "unit": "500g",
+      "category": "Tea & Coffee",
+      "image": "https://m.media-amazon.com/images/I/61pdSUfpk-L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "152",
+      "name": "Coffee Beans",
+      "price": 300,
+      "unit": "500g",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGoLWs8eMldArUNbMu6rOcDgOCy-sDj6qD2BAUeY2vVcWwRTeJ38ZkbYohYuL1FcCBqiinqLRGXn763S7E8KJu_K1Ecgm4uhFxfJubm7xvyb_M9iIxM7zR&usqp=CAc"
+    },
+    {
+      "id": "153",
+      "name": "Espresso Coffee",
+      "price": 280,
+      "unit": "500g",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4_lpQ1Z7QJOlXB8FnyEJpBaPjX_AzKTxP8A&s"
+    },
+    {
+      "id": "154",
+      "name": "Cappuccino Mix",
+      "price": 260,
+      "unit": "500g",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Ad5pgmWlDZlPuA09p6wS3tiKWql8W9Aehg&s"
+    },
+    {
+      "id": "155",
+      "name": "Latte Coffee",
+      "price": 270,
+      "unit": "500g",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBh99cpj2D_m3WawO-_Ccp-BzBfsAuuVOCHA&s"
+    },
+    {
+      "id": "156",
+      "name": "Mocha Coffee",
+      "price": 290,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://m.media-amazon.com/images/I/71rmTj46KfL.jpg"
+    },
+    {
+      "id": "157",
+      "name": "Milk Tea Premix",
+      "price": 140,
+      "unit": "500g",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVkWI4yxf74yziWvGOv51O2UQ51t4rrt_YIw&s"
+    },
+    {
+      "id": "158",
+      "name": "Iced Tea",
+      "price": 190,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBDnUKwOF6ebRJydrOXyG4weuANCXP9odQKw&s"
+    },
+    {
+      "id": "159",
+      "name": "Oolong Tea",
+      "price": 210,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://lluviatea.com/cdn/shop/files/3_e9e91d9f-782a-4afd-bf07-37901416d9f0.png?v=1772520703&width=1946"
+    },
+    {
+      "id": "160",
+      "name": "Turmeric Tea",
+      "price": 180,
+      "unit": "1unit",
+      "category": "Tea & Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOEBDJBnghqXA-QZqpOnhPZ3ZpUamET_wFw&s"
+    },
+    {
+      "id": "161",
+      "name": "Potato Chips",
+      "price": 20,
+      "unit": "1unit",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQrFVCdDb0Uyt_umETrf8Ypf18UOCflJDvoCjldZoCReh14nNadZWA-i60fyaEEtU1RLRrnuVc8rsR4tL9bydVH76rPJ6GHHADYZeDBnlLyvNZEniGt4iEX"
+    },
+    {
+      "id": "162",
+      "name": "Namkeen Mix",
+      "price": 40,
+      "unit": "1unit",
+      "category": "Snacks",
+      "image": "https://bikanervala.com/cdn/shop/files/Navratan_Mixture_Namkeen.jpg?v=1778485434&width=1000"
+    },
+    {
+      "id": "163",
+      "name": "Popcorn",
+      "price": 35,
+      "unit": "1unit",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgw1Rzld-AcXoenQDAJbQmsDz22yQaYX5o8Q&s"
+    },
+    {
+      "id": "164",
+      "name": "Cookies",
+      "price": 60,
+      "unit": "1unit",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKVmGi8kErKDgFkYPgJkL1Xp4b_6foEaKyLg&s"
+    },
+    {
+      "id": "165",
+      "name": "Biscuits Pack",
+      "price": 30,
+      "unit": "1unit",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4clxyM_BwWkbcAsGCtFDk4Xnjs4PyduYCIQ&s"
+    },
+    {
+      "id": "166",
+      "name": "Chocolate Bar",
+      "price": 50,
+      "unit": "1unit",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYQsHr8tqnA_ePPAQz_8cJmI-mOXyDh_doA&s"
+    },
+    {
+      "id": "167",
+      "name": "Wafer Rolls",
+      "price": 45,
+      "unit": "250gm",
+      "category": "Snacks",
+      "image": "https://m.media-amazon.com/images/I/81Q0a1fHBwL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "168",
+      "name": "Cream Biscuits",
+      "price": 25,
+      "unit": "5pisce",
+      "category": "Snacks",
+      "image": "https://tiimg.tistatic.com/fp/1/007/740/-crunchy-sweet-salty-and-delicious-chocolate-fillz-cream-biscuit-394.jpg"
+    },
+    {
+      "id": "169",
+      "name": "Peanut Chikki",
+      "price": 30,
+      "unit": "1unit",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10nrkoLH_A-F1X1YoEJHEIBWBdJJWM8nnxQ&s"
+    },
+    {
+      "id": "170",
+      "name": "Energy Bars",
+      "price": 80,
+      "unit": "1unit",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3wYLknD8gb4pMOeH7TSuANBWW4O4KpaW9g&s"
+    },
+    {
+      "id": "171",
+      "name": "Banana Chips",
+      "price": 35,
+      "unit": "350g",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3-SQXrJe59RWNHg8zzubvK9OhcuAS8yhAg&s"
+    },
+    {
+      "id": "172",
+      "name": "Roasted Nuts",
+      "price": 90,
+      "unit": "250g",
+      "category": "Snacks",
+      "image": "https://m.media-amazon.com/images/I/71Z6nEACg1L._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "id": "173",
+      "name": "Corn Chips",
+      "price": 40,
+      "unit": "90g",
+      "category": "Snacks",
+      "image": "https://m.media-amazon.com/images/I/41AaSv0BalL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "174",
+      "name": "Cup Cake",
+      "price": 55,
+      "unit": "5pisce",
+      "category": "Snacks",
+      "image": "https://m.media-amazon.com/images/I/91G8z8s4o-L._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "id": "175",
+      "name": "Donut",
+      "price": 60,
+      "unit": "5pisce",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhs6i1XTuJT6gcVRTLEezCNT9F3cj7o3LO1A&s"
+    },
+    {
+      "id": "176",
+      "name": "Puff Pastry",
+      "price": 50,
+      "unit": "2pisce",
+      "category": "Snacks",
+      "image": "https://www.bbassets.com/media/uploads/p/xxl/40277772_2-bauli-moonfils-puff-roll-with-caramel-creme-filling-soft-delicious.jpg"
+    },
+    {
+      "id": "177",
+      "name": "Mathri",
+      "price": 45,
+      "unit": "100g",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmujbd0V22qSkO5U_e8WZG_ZYsy0fNiaKCfQ&s"
+    },
+    {
+      "id": "178",
+      "name": "Samosa",
+      "price": 75,
+      "unit": "250g",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeH7zzf4Q2eQ6C6lR3ET3eT_i6_NK0mfRDiA&s"
+    },
+    {
+      "id": "179",
+      "name": "Kachori",
+      "price": 80,
+      "unit": "250g",
+      "category": "Snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9OOA6H9D4zjrJW0jQDA7L9_QGkwzXQYgcrA&s"
+    },
+    {
+      "id": "180",
+      "name": "Cheese Balls",
+      "price": 70,
+      "unit": "1pack",
+      "category": "Snacks",
+      "image": "https://fetchnbuy.in/cdn/shop/files/61XOxBcWi3L_grande.jpg?v=1715243368"
+    },
+    {
+      "id": "181",
+      "name": "Rice (Basmati)",
+      "price": 100,
+      "unit": "1kg",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_Gf8FM4P7fKYN4VaU-F69EfOuIOcIlmcnQ&s"
+    },
+    {
+      "id": "182",
+      "name": "Wheat Flour",
+      "price": 50,
+      "unit": "1kg",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxtA0-Bw2aBLoDox75GMX2O2W6jq9ynlIow&s"
+    },
+    {
+      "id": "183",
+      "name": "Maize",
+      "price": 35,
+      "unit": "500g",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHmEYdYkM9j-6G_nm3L4zgygIzZZnz11-I4g&s"
+    },
+    {
+      "id": "184",
+      "name": "Oats",
+      "price": 120,
+      "unit": "1kg",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeULMJzIayS9qD5wEPiR09tNOr9DSYytwyWQ&s"
+    },
+    {
+      "id": "185",
+      "name": "Barley",
+      "price": 60,
+      "unit": "1kg",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFB3_9gKNqLd9-Fm_6C_iV6NdvCl6Gx8XQAQ&s"
+    },
+    {
+      "id": "186",
+      "name": "Quinoa",
+      "price": 220,
+      "unit": "2kg",
+      "category": "Grains & Cereals",
+      "image": "https://m.media-amazon.com/images/I/71TgFtK2sVL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "187",
+      "name": "Brown Rice",
+      "price": 90,
+      "unit": "1kg",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxVnx_4G8iQWmW_yO7WszH1z8BGc0ozRmVcw&s"
+    },
+    {
+      "id": "188",
+      "name": "White Rice",
+      "price": 70,
+      "unit": "1kg",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFkMULZGAC28fwnxYipgSFjJMmHO3QQZBbko3oBtgmpGDPx_HYB2yx76ANNqY1nATYs2T7C3KYrg2lfjJTR5w4nTz4gxyZHsZxZ62WftQKHLiGxFb_mCateeY"
+    },
+    {
+      "id": "189",
+      "name": "Corn Flakes",
+      "price": 150,
+      "unit": "500g",
+      "category": "Grains & Cereals",
+      "image": "https://m.media-amazon.com/images/I/61fAoHwiNgL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "190",
+      "name": "Muesli",
+      "price": 200,
+      "unit": "500g",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjx-PqipCISYs_acmd52xT_JXvNMDSi3GLcw&s"
+    },
+    {
+      "id": "191",
+      "name": "Broken Wheat (Dalia)",
+      "price": 55,
+      "unit": "500g",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS02IsG7ioDbTMY93a3qxhAgANBFYP51SWNPQ&s"
+    },
+    {
+      "id": "192",
+      "name": "Ragi (Finger Millet)",
+      "price": 65,
+      "unit": "500g",
+      "category": "Grains & Cereals",
+      "image": "https://standardcoldpressedoil.com/wp-content/uploads/2022/11/Finger-Millet-%E2%80%93-Nutrient-dense-high-calcium-grain-ideal-for-bone-health-and-gluten-free-diets-available-nearby.jpg"
+    },
+    {
+      "id": "193",
+      "name": "Jowar",
+      "price": 60,
+      "unit": "1kg",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhPrc3j0lNYycpP5GR27VfmiTpdJv9y_v8A&s"
+    },
+    {
+      "id": "194",
+      "name": "Bajra",
+      "price": 58,
+      "unit": "1kg",
+      "category": "Grains & Cereals",
+      "image": "https://m.media-amazon.com/images/I/71T3bSg6HSL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "195",
+      "name": "Soya Beans",
+      "price": 110,
+      "unit": "1kg",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQostJWWV6UCu6xCaMxXmZzkfjjjPlDfRwStA&s"
+    },
+    {
+      "id": "196",
+      "name": "Chia Seeds",
+      "price": 150,
+      "unit": "500g",
+      "category": "Grains & Cereals",
+      "image": "https://www.poshtik.in/cdn/shop/files/chia_seeds_600x.jpg?v=1776924705"
+    },
+    {
+      "id": "197",
+      "name": "Flax Seeds",
+      "price": 180,
+      "unit": "250g",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOFt1ak8F8MRdJMy1X9S5oa9Tu8zu9tk3vA&s"
+    },
+    {
+      "id": "198",
+      "name": "Sesame Seeds",
+      "price": 140,
+      "unit": "250g",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2__-BSQ9jv4tNo8CZGKeLDI5IjDVIKddQfw&s"
+    },
+    {
+      "id": "199",
+      "name": "Wheat Bran",
+      "price": 75,
+      "unit": "500g",
+      "category": "Grains & Cereals",
+      "image": "https://m.media-amazon.com/images/I/711mD7y5U7L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "200",
+      "name": "Puffed Rice (Murmura)",
+      "price": 60,
+      "unit": "500g",
+      "category": "Grains & Cereals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMbz-bKhnymMmoxhwfPyXoKE08Jefz32TJQ&s"
+    },
+    {
+      "id": "201",
+      "name": "White Bread",
+      "price": 40,
+      "unit": "1unit",
+      "category": "Bakery & Breads",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifvQqb529q8LkGpc5vIFf0gyNvaUrbS3YfA&s"
+    },
+    {
+      "id": "202",
+      "name": "Brown Bread",
+      "price": 45,
+      "unit": "1unit",
+      "category": "Bakery & Breads",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40195005_2-popular-brown-bread.jpg"
+    },
+    {
+      "id": "203",
+      "name": "Multigrain Bread",
+      "price": 60,
+      "unit": "1unit",
+      "category": "Bakery & Breads",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40160674_2-top-n-town-bakers-multigrain-bread.jpg"
+    },
+    {
+      "id": "204",
+      "name": "Whole Wheat Bread",
+      "price": 55,
+      "unit": "1unit",
+      "category": "Bakery & Breads",
+      "image": "https://m.media-amazon.com/images/I/71kV8f2Dn0L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "205",
+      "name": "Burger Buns",
+      "price": 50,
+      "unit": "4pair",
+      "category": "Bakery & Breads",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40269036_2-the-bakers-dozen-burger-buns-100-whole-wheat-goodness-of-sesame-seeds-soft-delicious.jpg"
+    },
+    {
+      "id": "206",
+      "name": "Hot Dog Buns",
+      "price": 55,
+      "unit": "4pair",
+      "category": "Bakery & Breads",
+      "image": "https://m.media-amazon.com/images/I/51BH6P0XN8L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "207",
+      "name": "Croissant",
+      "price": 80,
+      "unit": "4pisces",
+      "category": "Bakery & Breads",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj5c-yFiz1JQOLJv_rAkD5kQtvg9NXIlvQtg&s"
+    },
+    {
+      "id": "208",
+      "name": "Chocolate Cake Slice",
+      "price": 90,
+      "unit": "4pisces",
+      "category": "Bakery & Breads",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtsxloGGxRf8B9BP9oaexchbGGqMsLGcMFg&s"
+    },
+    {
+      "id": "209",
+      "name": "Vanilla Cupcake",
+      "price": 50,
+      "unit": "4pisces",
+      "category": "Bakery & Breads",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktecqNVEqLwudnelzs7az18wcHfQOZ3E2og&s"
+    },
+    {
+      "id": "210",
+      "name": "Donut",
+      "price": 60,
+      "unit": "2pisces",
+      "category": "Bakery & Breads",
+      "image": "https://5.imimg.com/data5/WF/JR/MY-26547555/doughnuts-bread-500x500.png"
+    },
+    {
+      "id": "211",
+      "name": "Brownie",
+      "price": 70,
+      "unit": "150g",
+      "category": "Bakery & Breads",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40347177_2-the-bakers-dozen-zero-maida-chocolate-brownie.jpg"
+    },
+    {
+      "id": "212",
+      "name": "Cheese Cake Slice",
+      "price": 120,
+      "unit": "75g",
+      "category": "Bakery & Breads",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlIzeryJmUv5fZs4fU7WQjxLfM3M8type5Yw&s"
+    },
+    {
+      "id": "213",
+      "name": "Garlic Bread",
+      "price": 85,
+      "unit": "4pisces",
+      "category": "Bakery & Breads",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeiRLzye7o4d6WvKPkCL9GP6qb0YEebHKg3w&s"
+    },
+    {
+      "id": "214",
+      "name": "Sandwich Bread",
+      "price": 42,
+      "unit": "1unit",
+      "category": "Bakery & Breads",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtysRWQZV32NiLSwsvRlOTN_-rAkcEqUBINg&s"
+    },
+    {
+      "id": "215",
+      "name": "Rusk Toast",
+      "price": 35,
+      "unit": "1unit",
+      "category": "Bakery & Breads",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2025/3/498750355/WI/VJ/CY/44365243/rusk-toast-500x500.jpg"
+    },
+    {
+      "id": "216",
+      "name": "Pav Bread",
+      "price": 25,
+      "unit": "6pisces",
+      "category": "Bakery & Breads",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJmh428nVJCQCKUrf2cvqqELVpXoxQtDOiPw&s"
+    },
+    {
+      "id": "217",
+      "name": "Fruit Cake",
+      "price": 100,
+      "unit": "3pisces",
+      "category": "Bakery & Breads",
+      "image": "https://tiimg.tistatic.com/fp/1/009/168/fruit-cakes-061.jpg"
+    },
+    {
+      "id": "218",
+      "name": "Cream Roll",
+      "price": 70,
+      "unit": "5pisces",
+      "category": "Bakery & Breads",
+      "image": "https://www.bbassets.com/media/uploads/p/l/50000834_2-bakelite-cream-roll.jpg"
+    },
+    {
+      "id": "219",
+      "name": "Breadsticks",
+      "price": 65,
+      "unit": "10pisces",
+      "category": "Bakery & Breads",
+      "image": "https://www.bbassets.com/media/uploads/p/l/1224553_2-the-bakers-dozen-garlic-bread-100-wholewheat-160-g-chilli-garlic-grissini-breadsticks-100-g.jpg"
+    },
+    {
+      "id": "220",
+      "name": "Pound Cake",
+      "price": 110,
+      "unit": "100g",
+      "category": "Bakery & Breads",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_IgjY0L-QAb_QXn-717YYTU3REoIEYkZ5tQ&s"
+    },
+    {
+      "id": "221",
+      "name": "Amul Milk",
+      "price": 32,
+      "unit": "1pack",
+      "category": "Dairy Products",
+      "image": "https://tiimg.tistatic.com/fp/1/007/806/-fresh-original-flavoured-healthy-pure-amul-cow-milk-vaccum-pack-of-1-liter-508.jpg"
+    },
+    {
+      "id": "222",
+      "name": "Paneer",
+      "price": 90,
+      "unit": "175g",
+      "category": "Dairy Products",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40345790_1-mother-dairy-malai-paneer.jpg"
+    },
+    {
+      "id": "223",
+      "name": "Butter",
+      "price": 55,
+      "unit": "50g",
+      "category": "Dairy Products",
+      "image": "https://www.bbassets.com/media/uploads/p/l/30007663_4-mother-dairy-butter.jpg"
+    },
+    {
+      "id": "224",
+      "name": "Cheese Slices",
+      "price": 120,
+      "unit": "5pisces",
+      "category": "Dairy Products",
+      "image": "https://modernfoodspune.com/wp-content/uploads/2023/05/amul-chees.jpg"
+    },
+    {
+      "id": "225",
+      "name": "Curd",
+      "price": 40,
+      "unit": "80g",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMk8BJpue_yNGBR9nHunFoKhvgvnIEGbgJxA&s"
+    },
+    {
+      "id": "226",
+      "name": "Greek Yogurt",
+      "price": 100,
+      "unit": "75gm",
+      "category": "Dairy Products",
+      "image": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png"
+    },
+    {
+      "id": "227",
+      "name": "Fresh Cream",
+      "price": 68,
+      "unit": "50ml",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnOc25PI-u_frBPzrVCdTuqRFmbdUiwiA6w&s"
+    },
+    {
+      "id": "228",
+      "name": "Lassi",
+      "price": 30,
+      "unit": "50ml",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7L6CO-HgJeoBy-wDzwohQZ4dfelBdTKZfg&s"
+    },
+    {
+      "id": "229",
+      "name": "Buttermilk",
+      "price": 25,
+      "unit": "50ml",
+      "category": "Dairy Products",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40345784_1-mother-dairy-plain-probiotic-buttermilk.jpg"
+    },
+    {
+      "id": "230",
+      "name": "Chocolate Milk",
+      "price": 45,
+      "unit": "50ml",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9auXqsAOsm2W52foAkjZ2s4XrQiH_slQqfQ&s"
+    },
+    {
+      "id": "231",
+      "name": "Mozzarella Cheese",
+      "price": 150,
+      "unit": "125g",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXu3uh6-wgUBL0JUAa6KPzUn1O81GADJfNQQ&s"
+    },
+    {
+      "id": "232",
+      "name": "Whipping Cream",
+      "price": 110,
+      "unit": "100g",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRljG36J_0eY0sPhbjBesUnqk4Bu7MktZeSDQ&s"
+    },
+    {
+      "id": "233",
+      "name": "Condensed Milk",
+      "price": 95,
+      "unit": "50ml",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZPaqXejAajsauHvQC8j-GZFadWtWswOTdw&s"
+    },
+    {
+      "id": "234",
+      "name": "Flavored Yogurt",
+      "price": 75,
+      "unit": "50ml",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQ4AiOTZZ0jjBfAx87Mrmrp9mLwmiHwNlUg&s"
+    },
+    {
+      "id": "235",
+      "name": "Ice Cream",
+      "price": 180,
+      "unit": "1pack",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm06V5SdKQO_pRShBoR6y8XlHTxAdw2RwIcA&s"
+    },
+    {
+      "id": "236",
+      "name": "Milk Powder",
+      "price": 210,
+      "unit": "1pack",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikF5lMu01M8_rCvOKn81LqwTcbJj94a8vRQ&s"
+    },
+    {
+      "id": "237",
+      "name": "Processed Cheese",
+      "price": 130,
+      "unit": "1pack",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFNCjpEdx02aKcKrrMSlg7QPjhujj5hws29Q&s"
+    },
+    {
+      "id": "238",
+      "name": "Ghee",
+      "price": 320,
+      "unit": "250ml",
+      "category": "Dairy Products",
+      "image": "https://www.organicsoul.bio/cdn/shop/files/50_85aa0bd2-6d26-4433-8f80-d8610509c9e8.png?v=1764837179&width=990"
+    },
+    {
+      "id": "239",
+      "name": "Vanilla Milkshake",
+      "price": 60,
+      "unit": "50ml",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ035spTodXK2B6_Pkkic5nW-dz3K8-dORTKQ&s"
+    },
+    {
+      "id": "240",
+      "name": "Strawberry Yogurt",
+      "price": 55,
+      "unit": "100g",
+      "category": "Dairy Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFJVhkL69UHT2ycSyNysy5rY3V-pnN0ZOAg&s"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "customer": {
+        "username": "Annapurna_B",
+        "phone": "7620193107",
+        "address": "S. No. 36, Ganesh Nagar, Near CDSS\nPaud Phata Rd\nPandurang Colony, Erandwane",
+        "slot": "8 AM - 10 AM"
+      },
+      "items": [
+        {
+          "id": "zbaxLKKKUiU",
+          "name": "Ready Poha",
+          "category": "Instant Food",
+          "price": 45,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72PMnJvTSNi4bgu377gTVEv0ExZGrKuxXdw&s",
+          "quantity": 5
+        },
+        {
+          "id": "4dYgebyIxQM",
+          "name": "Sweet Lime",
+          "category": "Fresh Fruits",
+          "price": 75,
+          "image": "https://5.imimg.com/data5/GE/RR/GLADMIN-50838747/organic-sweet-lime-500x500.jpg",
+          "quantity": 6
+        },
+        {
+          "id": "ENTSMPljGmE",
+          "name": "Mango",
+          "category": "Fresh Fruits",
+          "price": 150,
+          "image": "https://natural-cure.org/wp-content/uploads/diet-and-nutrition-Mango-The-King-of-Fruit-has-Incredible-Health-Benefits.jpg",
+          "quantity": 3
+        },
+        {
+          "id": "BMPPooOIO3E",
+          "name": "Garbage Bags",
+          "category": "Cleaning Essentials",
+          "price": 90,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLBQdGKKROjlT65qzgYPFcDOA7UH0PMDlyw&s",
+          "quantity": 4
+        },
+        {
+          "id": "QfRDYq678fo",
+          "name": "Carrot",
+          "category": "Organic Veggies",
+          "price": 50,
+          "image": "https://malafarms.com/wp-content/uploads/2024/01/Frame-24.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "GxiBsLyzorY",
+          "name": "Carrot",
+          "category": "Organic Veggies",
+          "price": 50,
+          "image": "https://malafarms.com/wp-content/uploads/2024/01/Frame-24.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 1585,
+      "date": "5/15/2026, 7:38:41 PM",
+      "id": "OzbdFYlyO0k"
+    },
+    {
+      "customer": {
+        "username": "Annapurna_B",
+        "phone": "7620193107",
+        "address": "S. No. 36, Ganesh Nagar, Near CDSS\nPaud Phata Rd\nPandurang Colony, Erandwane",
+        "slot": "8 AM - 10 AM"
+      },
+      "items": [
+        {
+          "id": "t5gpqw82_kw",
+          "name": "Orange",
+          "category": "Fresh Fruits",
+          "price": 90,
+          "unit": "1kg",
+          "image": "https://insanelygoodrecipes.com/wp-content/uploads/2023/01/Fresh-Organic-Tangerine-Oranges-with-Leaves.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 90,
+      "date": "5/17/2026, 2:27:41 PM",
+      "id": "crVpOOy30Q8"
+    },
+    {
+      "customer": {
+        "username": "Annapurna_B",
+        "phone": "7620193107",
+        "address": "nirmaltowunship",
+        "slot": "8 AM - 10 AM"
+      },
+      "items": [
+        {
+          "id": "7hPlqchSoZg",
+          "name": "Maggi Noodles",
+          "category": "Instant Food",
+          "price": 20,
+          "unit": "1pack",
+          "image": "https://www.quickpantry.in/cdn/shop/products/maggi-masala-instant-noodles-70-g-quick-pantry.jpg?v=1710537948",
+          "quantity": 3
+        },
+        {
+          "id": "TgHXeQVCsH8",
+          "name": "Buttermilk",
+          "price": 25,
+          "unit": "50ml",
+          "category": "Dairy Products",
+          "image": "https://www.bbassets.com/media/uploads/p/l/40345784_1-mother-dairy-plain-probiotic-buttermilk.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 85,
+      "date": "5/22/2026, 4:18:52 PM",
+      "id": "XeYACCxBHRU"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
